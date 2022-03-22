@@ -1,0 +1,286 @@
+form {
+  text-align: center;
+  padding-bottom: 10px;
+}
+.btn-city {
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 5px;
+  background: rgb(8, 84, 184);
+}
+h1 {
+  text-align: left;
+  font-weight: 350;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn-primary {
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+  background: rgb(8, 84, 184);
+}
+.btn-primary2 {
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+  background: rgb(8, 84, 184);
+  color: white;
+}
+#current {
+  background: rgb(44, 121, 44);
+}
+.border {
+  background-image: url(https:images/weather.jpg);
+  background-size: 100%;
+}
+.container {
+  background: rgb(136, 93, 93);
+  max-width: 500px;
+  border: 1px solid grey;
+  padding: 8px;
+}
+#day {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 12px;
+}
+.cloudy {
+  font-weight: thin;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 12px;
+}
+#description {
+  text-transform: capitalize;
+}
+.first-degree {
+  position: relative;
+  font-weight: bold;
+  right: -438px;
+  top: -80px;
+  font-size: 23px;
+}
+.second-degree {
+  position: relative;
+  right: -401px;
+  top: -60px;
+  font-size: 13px;
+}
+
+#fahrenheit {
+  color: blue;
+  position: relative;
+  right: -1px;
+  top: 1px;
+}
+#celsius {
+  color: blue;
+  position: relative;
+  right: 3px;
+  top: 1px;
+}
+.first-emoji {
+  position: relative;
+  right: -310px;
+  top: -70px;
+  font-size: 35px;
+}
+.third-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 27px;
+  top: -10px;
+}
+.fourth-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 66px;
+  top: -20px;
+}
+.fifth-degree {
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  left: 99px;
+  top: -30px;
+}
+.sixth-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 130px;
+  top: -40px;
+}
+.seventh-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 165px;
+  top: -50px;
+}
+.eighth-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 195px;
+  top: -60px;
+}
+.ninth-degree {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 225px;
+  top: -70px;
+}
+.first-percent {
+  position: relative;
+  left: 24px;
+  top: -10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.second-percent {
+  position: relative;
+  left: 55px;
+  top: -12px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.third-percent {
+  position: relative;
+  left: 82px;
+  top: -13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fourth-percent {
+  position: relative;
+  left: 106px;
+  top: -15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.fifth-percent {
+  position: relative;
+  left: 128px;
+  top: -17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.sixth-percent {
+  position: relative;
+  left: 150px;
+  top: -19px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.seventh-percent {
+  position: relative;
+  left: 175px;
+  top: -20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.second-emoji {
+  position: relative;
+  left: 23px;
+  top: -25px;
+  font-size: 30px;
+}
+.third-emoji {
+  position: relative;
+  left: 45px;
+  top: -25px;
+  font-size: 30px;
+}
+.fourth-emoji {
+  position: relative;
+  left: 62px;
+  top: -27px;
+  font-size: 30px;
+}
+.fifth-emoji {
+  position: relative;
+  left: 77px;
+  top: -27px;
+  font-size: 30px;
+}
+.sixth-emoji {
+  position: relative;
+  left: 90px;
+  top: -28px;
+  font-size: 30px;
+}
+.seventh-emoji {
+  position: relative;
+  left: 104px;
+  top: -28px;
+  font-size: 30px;
+}
+.eighth-emoji {
+  position: relative;
+  left: 120px;
+  top: -32px;
+  font-size: 30px;
+}
+.first-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 27px;
+  top: -32px;
+  font-size: 15px;
+}
+.second-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 49px;
+  top: -32px;
+  font-size: 15px;
+}
+.third-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 69px;
+  top: -32px;
+  font-size: 15px;
+}
+.fourth-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 88px;
+  top: -32px;
+  font-size: 15px;
+}
+.fifth-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 105px;
+  top: -32px;
+  font-size: 15px;
+}
+.sixth-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 120px;
+  top: -33px;
+  font-size: 15px;
+}
+.seventh-time {
+  position: relative;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 140px;
+  top: -33px;
+  font-size: 15px;
+}
+.btn-light {
+  padding-left: 15px;
+  padding-right: 100px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 30px;
+  background: grey;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+}
+.source {
+  color: white;
+  padding-left: 12px;
+  padding-bottom: 12px;
+  font-size: 12px;
+  font-weight: bold;
+}
+a {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.owner {
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
