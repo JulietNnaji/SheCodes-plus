@@ -21,24 +21,30 @@
 
   <body>
     <div class="container">
-      <form id="search-form">
-        <input type="text" placeholder="Enter a city" id="search-city-button" />
-        <button type="submit" class="btn btn-city">Submit</button>
-        <button type="submit" class="btn btn-city" id="current">Current</button>
-      </form>
-      <h1 id="city-name"></h1>
-      <div class="row">
-        <div class="col-3">
-          <button type="button" class="btn btn-primary">Today</button>
-        </div>
-        <div class="col-3">
-          <button type="button" class="btn btn-primary">Tomorrow</button>
-        </div>
-        <div class="col-3">
-          <button type="button" class="btn btn-primary">5days</button>
-        </div>
-      </div>
       <div class="border pt-4 pb-10 mt-2">
+        <form id="search-form">
+          <input
+            type="text"
+            placeholder="Enter a city"
+            id="search-city-button"
+          />
+          <button type="submit" class="btn btn-city">Submit</button>
+          <button type="submit" class="btn btn-city" id="current">
+            Current
+          </button>
+        </form>
+        <h1 id="city-name"></h1>
+        <div class="row">
+          <div class="col-3">
+            <button type="button" class="btn btn-primary">Today</button>
+          </div>
+          <div class="col-3">
+            <button type="button" class="btn btn-primary">Tomorrow</button>
+          </div>
+          <div class="col-3">
+            <button type="button" class="btn btn-primary">5days</button>
+          </div>
+        </div>
         <div id="day"></div>
         <div class="cloudy" id="description"></div>
         <p>
