@@ -29,6 +29,7 @@ h1 {
 .border {
   background-image: url(https:images/weather.jpg);
   background-size: 100%;
+  max-width: 600px;
 }
 .container {
   background: rgb(136, 93, 93);
